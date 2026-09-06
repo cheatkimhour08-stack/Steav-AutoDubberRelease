@@ -1,10 +1,10 @@
 {
-  "latest_version": "5.2",
+  "latest_version": "5.2.1",
   "release_date": "2026-09-06",
-  "patch_url": "https://github.com/cheatkimhour08-stack/Steav-AutoDubberRelease/releases/download/v5.2/patch_v5.2.zip",
-  "patch_size_mb": 105.54,
-  "sha256": "9ecef31cb7fcd8667222f38459c6cd37d79dda3600df291c00cde488539a7249",
-  "changelog_km": "• Update Zero-Hallucination Translation Engine\\n• Auto-Notification Update Badge",
+  "patch_url": "https://github.com/cheatkimhour08-stack/Steav-AutoDubberRelease/releases/download/v5.2.1/patch_v5.2.1.zip",
+  "patch_size_mb": 105.55,
+  "sha256": "79a23cdcd550d2c42e931dc4a97c19143004230cada4d67c7f20a561f4f06ea4",
+  "changelog_km": "• បង្កើនភាពសុក្រឹត Voice Gender Detection (Strict Pitch Authority >90%)\\n• ដោះស្រាយបញ្ហាច្រឡំសំឡេងតួអង្គប្រុសទៅជាស្រី\\n• បន្ថែម Active Speech Isolation & Pitch Veto Guard",
   "is_major": false,
   "force_update": false
 }
