@@ -1,0 +1,10 @@
+{
+  "latest_version": "5.2.0",
+  "release_date": "2026-09-06",
+  "patch_url": "https://github.com/cheatkimhour08-stack/Steav-AutoDubberRelease/releases/download/v5.2.0/patch_v5.2.0.zip",
+  "patch_size_mb": 97.92,
+  "sha256": "0b4dae01f71885b8e0754cad348448ae6292f5932fb1427989eca4b7fb24bbb0",
+  "changelog_km": "• កែសម្រួលប្រព័ន្ធសុវត្ថិភាព និងបង្កើនល្បឿន Render",
+  "is_major": false,
+  "force_update": false
+}
