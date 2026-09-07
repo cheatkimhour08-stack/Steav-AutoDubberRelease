@@ -1,10 +1,10 @@
 {
-  "latest_version": "5.2.1",
-  "release_date": "2026-09-06",
-  "patch_url": "https://github.com/cheatkimhour08-stack/Steav-AutoDubberRelease/releases/download/v5.2.1/patch_v5.2.1.zip",
+  "latest_version": "5.2.2",
+  "release_date": "2026-09-07",
+  "patch_url": "https://github.com/cheatkimhour08-stack/Steav-AutoDubberRelease/releases/download/v5.2.2/patch_v5.2.2.zip",
   "patch_size_mb": 105.55,
-  "sha256": "79a23cdcd550d2c42e931dc4a97c19143004230cada4d67c7f20a561f4f06ea4",
-  "changelog_km": "• បង្កើនភាពសុក្រឹត Voice Gender Detection (Strict Pitch Authority >90%)\\n• ដោះស្រាយបញ្ហាច្រឡំសំឡេងតួអង្គប្រុសទៅជាស្រី\\n• បន្ថែម Active Speech Isolation & Pitch Veto Guard",
+  "sha256": "5e50599a2d915bf1c601a92342ff99bad18c4cfc24f9d81e3ce8d6e1f1663f00",
+  "changelog_km": "• Fix ការស្រមើស្រមៃ (Anti-Hallucination & Repetition Suppression Guard)\\n• បន្ថែម Hallucination Silence Threshold 2.0s\\n• បន្ថែម Repetitive Loop & Subtitle Boilerplate Filter\\n• ធានាភាពសុក្រឹតខ្ពស់លើការ Transcribe និងបកប្រែ",
   "is_major": false,
   "force_update": false
 }
