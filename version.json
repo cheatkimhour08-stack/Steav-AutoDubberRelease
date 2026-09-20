@@ -2,9 +2,9 @@
   "latest_version": "5.2.3",
   "release_date": "2026-09-20",
   "patch_url": "https://github.com/cheatkimhour08-stack/Steav-AutoDubberRelease/releases/download/V5.2.3/patch_v5.2.3.zip",
-  "patch_size_mb": 103.58,
-  "sha256": "53f14e7f7d175b139125c5a4c181076689c004374fd9c3255a51afbfc99e0ecd",
-  "changelog_km": "Update\nAuto Detch gender កាន់តែត្រូវជាងមុន\nការបកប្រែរឿងបានល្អជាមុនច្រើន និង ធ្វើការបានលឿនដោយ API\nកែប្រែបញ្ហារ Error ដែរមានក្នុងកម្មវិធី",
+  "patch_size_mb": 105.64,
+  "sha256": "336bf1884307f7dd1f591856dc1eb47d5044d20f737753479cf36d4e0844d9e1",
+  "changelog_km": "• កំណែប្រែ និងកែលម្អប្រព័ន្ធសម្រាប់ v5.2.3",
   "is_major": false,
-  "force_update": false
+  "force_update": true
 }
