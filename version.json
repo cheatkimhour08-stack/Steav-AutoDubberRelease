@@ -1,10 +1,10 @@
 {
   "latest_version": "5.3.0",
-  "release_date": "2026-09-24",
+  "release_date": "2026-09-25",
   "patch_url": "https://github.com/cheatkimhour08-stack/Steav-AutoDubberRelease/releases/download/V5.3.0/patch_v5.3.0.zip",
   "patch_size_mb": 105.67,
-  "sha256": "e6fb3a4231772a9ac750f7123714c435f0be7991962ea98243848389f8a6c85d",
-  "changelog_km": "• [AI Models Fix] ដោះស្រាយបញ្ហា AI Models (Whisper, MADLAD, Demucs, Gender AI) មិនស្គាល់ក្រោយ Update ដោយស្កេន Folder models/ គ្រប់ទីតាំង និងដំណើរការ Offline ១០០%\n• [SteavAPI 15-Min Engine] បង្កើនល្បឿន និងសមត្ថភាព Dubbing សំឡេងវែងដល់ ១៥ នាទីពេញ ជាមួយ Audio Compression កាត់បន្ថយទំហំឯកសារ ៩០% និង timeout 120s\n• [Subtitle Typography] កែលម្អការបង្ហាញអក្សររត់ 9:16 សមមាត្រស្អាត មិនរីកធំពេក មិនដាច់អក្សរនៅគែម និងការពារឃ្លាខ្លីមិនឱ្យគរលើគ្នា ២ ជាន់\n• [System Stability] ពង្រឹងការតភ្ជាប់ SteavAPI Gateway និង Direct Gemini API កំណត់ max_tokens 8192 ការពារដាច់ពាក់កណ្តាល",
+  "sha256": "a7c45b329a77c0f4aff4de86ae6300aaa5f898549cc63dde5daa18733c4ed612",
+  "changelog_km": "• [AI Models Fix] ដោះស្រាយបញ្ហា AI Models (Whisper, MADLAD, Demucs, Gender AI) មិនស្គាល់ក្រោយ Update ដោយស្កេន Folder models/ គ្រប់ទីតាំង និងដំណើរការ Offline ១០០%\n• [Module Resolution Fix] ដោះស្រាយ Error ModuleNotFoundError: No module named 'steavrecap.backend' ពេលដំណើរការ EXE ក្រោយ Update\n• [SteavAPI 15-Min Engine] បង្កើនល្បឿន និងសមត្ថភាព Dubbing សំឡេងវែងដល់ ១៥ នាទីពេញ ជាមួយ Audio Compression កាត់បន្ថយទំហំឯកសារ ៩០% និង timeout 120s\n• [Subtitle Typography] កែលម្អការបង្ហាញអក្សររត់ 9:16 សមមាត្រស្អាត មិនរីកធំពេក មិនដាច់អក្សរនៅគែម និងការពារឃ្លាខ្លីមិនឱ្យគរលើគ្នា ២ ជាន់\n• [System Stability] ពង្រឹងការតភ្ជាប់ SteavAPI Gateway និង Direct Gemini API កំណត់ max_tokens 8192 ការពារដាច់ពាក់កណ្តាល",
   "is_major": false,
   "force_update": false
 }
