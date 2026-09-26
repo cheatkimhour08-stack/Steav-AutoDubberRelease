@@ -1,7 +1,7 @@
 {
   "latest_version": "5.5.0",
   "release_date": "2026-09-27",
-  "patch_url": "https://github.com/cheatkimhour08-stack/Steav-AutoDubberRelease/releases/download/V5.5.0/patch_v5.5.0.zip",
+  "patch_url": "https://github.com/cheatkimhour08-stack/Steav-AutoDubberRelease/releases/download/5.5.0/patch_v5.5.0.zip",
   "patch_size_mb": 99.98,
   "sha256": "df847010c15497264239b542356870c69015e102db9042f5f7c5ffe740eb4a34",
   "changelog_km": "• ⚡ បន្ថែមមុខងារថ្មី Single Video SRT៖ ដំណើរការលឿនរហ័សទាន់ចិត្ត និងងាយស្រួលកែសម្រួល\n• 🔑 Fix & Update API៖ ដំណើរការរលូន ១០០% គ្មានបញ្ហារអាក់រអួល (Fix API Not Working)\n• 🎯 កែលម្អប្រព័ន្ធ Detect Gender៖ កាន់តែឆ្លាតវៃ និងចាប់សំឡេងតួអង្គបានសុក្រឹតឥតខ្ចោះ",
