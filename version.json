@@ -1,10 +1,10 @@
 {
-  "latest_version": "5.4.0",
-  "release_date": "2026-09-26",
-  "patch_url": "https://github.com/cheatkimhour08-stack/Steav-AutoDubberRelease/releases/download/V5.4.0/patch_v5.4.0.zip",
-  "patch_size_mb": 99.96,
-  "sha256": "1d3ad90d8ed9b514028fc727a32ece525ea39501af691b11085c535c52a61699",
-  "changelog_km": "• Fix បញ្ហា Lock File (Update ស្រួល 1-Click)\n• Fix API Gemini Free Tier (គាំទ្រ Gemini 3.5 Flash-Lite)\n• ប្រើជាមួយ SteavAPI បកប្រែរឿងគ្មានដែនកំណត់ (Gemini 3.8 Flash High)\n• កែលម្អល្បឿន និងសម្អាត Log ឱ្យស្រួលមើល",
+  "latest_version": "5.5.0",
+  "release_date": "2026-09-27",
+  "patch_url": "https://github.com/cheatkimhour08-stack/Steav-AutoDubberRelease/releases/download/V5.5.0/patch_v5.5.0.zip",
+  "patch_size_mb": 99.98,
+  "sha256": "df847010c15497264239b542356870c69015e102db9042f5f7c5ffe740eb4a34",
+  "changelog_km": "• ⚡ បន្ថែមមុខងារថ្មី Single Video SRT៖ ដំណើរការលឿនរហ័សទាន់ចិត្ត និងងាយស្រួលកែសម្រួល\n• 🔑 Fix & Update API៖ ដំណើរការរលូន ១០០% គ្មានបញ្ហារអាក់រអួល (Fix API Not Working)\n• 🎯 កែលម្អប្រព័ន្ធ Detect Gender៖ កាន់តែឆ្លាតវៃ និងចាប់សំឡេងតួអង្គបានសុក្រឹតឥតខ្ចោះ",
   "is_major": false,
   "force_update": false
 }
